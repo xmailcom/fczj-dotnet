@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="彩票后台\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="彩票后台\Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="彩票后台\修改密码.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="彩票后台\彩票预测.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
